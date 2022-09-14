@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.infosport">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.InfoSport">
+        <activity
+            android:name=".DetailsActivity"
+            android:exported="false"
+            android:parentActivityName=".Nutrition_man"/>
+        <activity
+            android:name=".BodyTypeGirl"
+            android:exported="false"
+            android:parentActivityName=".GenderGirl" />
+        <activity
+            android:name=".DetermineWeightGirl"
+            android:exported="false"
+            android:parentActivityName=".GenderGirl"/>
+        <activity
+            android:name=".NoteEditorActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".GymMezomorphDay3"
+            android:exported="false"
+            android:parentActivityName=".Mesomorph" />
+        <activity
+            android:name=".GymMezomorphDay2"
+            android:exported="false"
+            android:parentActivityName=".Mesomorph" />
+        <activity
+            android:name=".GymMezomorphDay1"
+            android:exported="false"
+            android:parentActivityName=".Mesomorph" />
+        <activity
+            android:name=".GymEctomorphDay3"
+            android:exported="false"
+            android:parentActivityName=".Ectomorph" />
+        <activity
+            android:name=".GymEctomorphDay2"
+            android:exported="false"
+            android:parentActivityName=".Ectomorph" />
+        <activity
+            android:name=".GymEctomorphDay1"
+            android:exported="false"
+            android:parentActivityName=".Ectomorph" />
+        <activity
+            android:name=".DetermineWeight"
+            android:exported="false"
+            android:parentActivityName=".GenderMan" />
+        <activity
+            android:name=".GymEndomorphDay3"
+            android:exported="false"
+            android:parentActivityName=".Endomorph" />
+        <activity
+            android:name=".GymEndomorphDay2"
+            android:exported="false"
+            android:parentActivityName=".Endomorph" />
+        <activity
+            android:name=".GymEndomorphDay1"
+            android:exported="false"
+            android:parentActivityName=".Endomorph" />
+        <activity android:name=".Info" />
+        <activity
+            android:name=".DescriptionEndomorph"
+            android:parentActivityName=".BodyTypeCalculator" />
+        <activity
+            android:name=".DescriptionMesomorph"
+            android:parentActivityName=".BodyTypeCalculator" />
+        <activity
+            android:name=".DescriptionEctomorph"
+            android:parentActivityName=".BodyTypeCalculator" />
+        <activity
+            android:name=".Mesomorph"
+            android:parentActivityName=".BodyTypeMan" />
+        <activity
+            android:name=".Ectomorph"
+            android:parentActivityName=".BodyTypeMan" />
+        <activity
+            android:name=".Endomorph"
+            android:parentActivityName=".BodyTypeMan" />
+        <activity
+            android:name=".BodyTypeCalculator"
+            android:parentActivityName=".BodyTypeMan" />
+        <activity
+            android:name=".Articles"
+            android:parentActivityName=".BodyTypeMan" />
+        <activity
+            android:name=".NotePad"
+            android:parentActivityName=".NotePad" />
+        <activity
+            android:name=".TimerManAndGirl"
+            android:parentActivityName=".BodyTypeMan" />
+        <activity
+            android:name=".Nutrition_man"
+            android:parentActivityName=".GenderMan" />
+        <activity
+            android:name=".BodyTypeMan"
+            android:parentActivityName=".GenderMan" />
+        <activity
+            android:name=".GenderGirl"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".GenderMan"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/SplahSreenTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

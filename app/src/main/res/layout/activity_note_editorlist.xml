@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".NotePad"
+    android:background="@color/purple_200">
+
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/card"
+            android:layout_width="match_parent"
+            android:layout_height="660dp"
+            android:layout_marginTop="40dp">
+
+                <TextView
+                    android:layout_width="210dp"
+                    android:layout_height="80dp"
+                    android:text="@string/note111"
+                    android:textColor="@color/purple_200"
+                    android:fontFamily="@font/ruda"
+                    android:textStyle="bold"
+                    android:textSize="50sp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="25dp"/>
+                <ImageView
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/icon_yes"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginLeft="250dp"/>
+                <ListView
+                    android:id="@+id/listView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="100dp"/>
+        </androidx.cardview.widget.CardView>
+
+
+</RelativeLayout>

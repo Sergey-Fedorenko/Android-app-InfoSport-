@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InfoSport</string>
+    <string name="pom">YOUR ASSISTANT</string>
+    <string name="gender">YOUR GENDER</string>
+    <string name="bodyType"><u>Determine the body type</u></string>
+    <string name="item1">Application Information</string>
+    <string name="description_logo">The information provided in this application is for reference and is provided as recommendations.
+The author is not responsible for the consequences of improper exercise performance.</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="info_raz">Write to the developers</string>
+    <string name="string_star">Rate the app</string>
+    <string name="infosport">Contact the developer</string>
+    <string name="string_ectomorph">Usually wiry and thin. They can eat everything in a row and not get better at the same time. <u>Training program</u></string>
+    <string name="text_endemorph">The figure has the shape of a king bell. Metabolism is aimed at storing fat. <u>Training program</u></string>
+    <string name="text_mesomorph">Strong build with broad shoulders and chest and strong legs. <u>Training program</u></string>
+
+    <string name="legs">(legs)</string>
+    <string name="breast">(chest,triceps)</string>
+    <string name="back">(back,biceps,\n press)</string>
+    <string name="Day1">Day 1</string>
+    <string name="Day2">Day 2</string>
+    <string name="Day3">Day 3</string>
+
+    <!-- Текст для Статей -->
+
+    <string name="title1">Is it possible to take expired sports nutrition?</string>
+    <string name="desc1">Is it possible to take expired protein? If the protein was stored in a dry, dark, cool place and moisture did not get into the container, then such a protein can be taken for 12–18 months after the expiration date.</string>
+
+    <string name="title2">Carbohydrate window</string>
+    <string name="desc2">After physical exercises, the body can absorb nutrients with great speed. He assimilates them 4 times faster than before. The reason for this is the banal consumption of energy resources.</string>
+
+    <string name="title3">The most popular fitness destinations</string>
+    <string name="desc3">1. CrossFit\n2. Yoga\n3. Zumba-dance for weight loss\n4. Insanity-high-intensity aerobics\n5. P90x-real strength training program for home</string>
+
+    <string name="title4">Equipment</string>
+    <string name="desc4">What should I take for training?\n1. Power belt\n2. Elastic bandage\n3. Gloves</string>
+
+
+    <string name="title5">What is Cheating?</string>
+    <string name="desc5">Cheating – indicates a violation of the technique of performing the exercise.\n
+The five best exercises for reading:\n
+1. Bending the legs lying down \n
+2. Lifting on socks \n
+3. Lifting the arms to the sides \n
+4. Belt pull while sitting on the block (upper pull)\n
+5. Alternate lifting of dumbbells </string>
+    <string name="title6">Training in the heat: how to maintain productivity and not harm your health</string>
+    <string name="desc6">Alas, not all gyms have climate control systems that
+they are able to maintain optimal temperature and humidity indicators for training.
+Tips for training in the heat:
+1. Drink more fluids. Training in the heat leads to a significant increase in sweating and,
+as a result, to the loss of a large amount of fluid.
+2. Reduce the intensity of training. The more intense the workout, the more the pulse increases and
+the more it affects the cardiovascular system
+3. Drink sugary drinks. Since the active operation of thermoregulation mechanisms requires a large amount of energy,
+many people feel tired in the heat.
+
+</string>
+    <string name="EndomorphDay1">DAY 1 (LEGS)</string>
+    <string name="EndomorphDay2">DAY 2 (CHEST,TRICEPS)</string>
+    <string name="EndomorphDay3">DAY 3 (BACK,BICEPS,ABS)</string>
+    <string name="day1">(chest,triceps,\n abs)</string>
+    <string name="ectomorph">Your body type: Ectomorph</string>
+    <string name="mezomorph">Your body type: Mesomorph</string>
+    <string name="endomorph">Your body type: Endomorph</string>
+    <string name="okr">Enter the wrist circumference</string>
+    <string name="result">Result</string>
+    <string name="gir">The percentage of fat in your body is: </string>
+    <string name="close">Close</string>
+    <string name="nise">Excellent form</string>
+    <string name="vrema">Time to lose weight</string>
+    <string name="pola1">All fields must be filled in</string>
+    <string name="maxresult">Your maximum heart rate during exercise should not exceed: </string>
+    <string name="nice">Great, keep up the good work!</string>
+    <string name="age">It is necessary to fill in the field \'Age (years)\'</string>
+    <string name="result_kkal">Result of kcal per day:</string>
+    <string name="neobhodimo">You need to: </string>
+    <string name="kkal"> kcal</string>
+    <string name="pola">All fields must be filled in</string>
+    <string name="water">Daily water allowance</string>
+    <string name="drink">You need to drink: </string>
+    <string name="day"> liters of water per day</string>
+    <string name="drink1">You need to drink: </string>
+    <string name="litr"> liters of water per day</string>
+    <string name="neobh">All fields must be filled in</string>
+    <string name="weight">The result of the weight assessment:</string>
+    <string name="niceweight">Your ideal weight: </string>
+    <string name="kg"> kg</string>
+
+    <string name="nugno">It is necessary to fill in the field \'Enter height in centimeters\'</string>
+    <string name="plan_treni">This block contains training plans</string>
+    <string name="kos_icon">Tap the icon to continue</string>
+    <string name="nutri">In this block you will be able to choose different dishes for the meal plan</string>
+    <string name="sec">How about without a stopwatch during rest and not only</string>
+    <string name="note">There is nowhere to write down information about training, leave notes in the notes!</string>
+    <string name="articl">You need information about training, the \'Articles\' section will help you</string>
+    <string name="idealweight">In this section you will be able to calculate, starting from the ideal weight and ending with the % body fat content</string>
+    <string name="man1">You are given the opportunity to choose a male gender...</string>
+    <string name="button1">Tap the button to continue</string>
+    <string name="girl">And so the female gender by clicking on the \'SELECT\'</string>
+    button
+    <string name="close1">Tap again to exit the app</string>
+    <string name="vopros">Are you sure you want to delete?</string>
+    <string name="yes1">Yes</string>
+    <string name="no">No</string>
+    <string name="delete">The note was successfully deleted</string>
+    <string name="q">Mango lassi</string>
+    <string name="w">Banana-nut cocktail</string>
+    <string name="e">Thick berry smoothie</string>
+    <string name="r">Mushroom omelet</string>
+    <string name="t">French toast with strawberries</string>
+    <string name="y">Oatmeal</string>
+    <string name="u">Egg salad</string>
+    <string name="i">Green smoothie with spinach</string>
+    <string name="o">Chocolate banana smoothie</string>
+    <string name="kal1">193 kcal</string>
+    <string name="kal2">434 kcal</string>
+    <string name="kal3">352 kcal</string>
+    <string name="kal4">389 kcal</string>
+    <string name="kal6">271 kcal</string>
+    <string name="kal7">260 kcal</string>
+    <string name="kal8">217 kcal</string>
+    <string name="kal9">326 kcal</string>
+    <string name="kal10">273 kcal</string>
+    <string name="min1">3 mines</string>
+    <string name="min2">5 mines</string>
+    <string name="min3">5 mines</string>
+    <string name="min4">10 mines</string>
+    <string name="min5">6 mines</string>
+    <string name="min6">10 mines</string>
+    <string name="min7">5 mines</string>
+    <string name="min8">15 mines</string>
+    <string name="min9">5 mines</string>
+
+    <string name="p">Chocolate muffins</string>
+    <string name="a">Mini cheesecakes</string>
+    <string name="s">Toast with avocado and salmon</string>
+    <string name="d">Caprese salad</string>
+    <string name="f">Chocolate banana bread</string>
+    <string name="g">Mango smoothie with spinach</string>
+    <string name="h">Oatmeal cookies</string>
+    <string name="j">Coconut smoothie</string>
+    <string name="k">Potato muffins</string>
+    <string name="kkal11">152 kcal</string>
+    <string name="kkal12">184 kcal</string>
+    <string name="kkal13">486 kcal</string>
+    <string name="kkal14">321 kcal</string>
+    <string name="kkal15">165 kcal</string>
+    <string name="kkal16">199 kcal</string>
+    <string name="kkal17">87 kcal</string>
+    <string name="kkal18">283 kcal</string>
+    <string name="kkal19">109 kcal</string>
+    <string name="min11">25 mines</string>
+    <string name="min12">85 mines</string>
+    <string name="min13">10 mines</string>
+    <string name="min14">5 mines</string>
+    <string name="min15">50 mines</string>
+    <string name="min16">5 mines</string>
+    <string name="min17">23 mines</string>
+    <string name="min18">5 mines</string>
+    <string name="min19">50 mines</string>
+
+    <string name="l">Chicken noodle soup</string>
+    <string name="z">White chicken soup</string>
+    <string name="x">Egg soup</string>
+    <string name="c">Basic omelet</string>
+    <string name="v">Turkey rolls</string>
+    <string name="b">Greek salad with cheese</string>
+    <string name="n">Chicken Caprese</string>
+    <string name="m">Corn soup</string>
+    <string name="qq">Chicken with vegetables</string>
+    <string name="kkal111">377 kcal</string>
+    <string name="kkal112">226 kcal</string>
+    <string name="kkal113">199 kcal</string>
+    <string name="kkal114">429 kcal</string>
+    <string name="kkal115">335 kcal</string>
+    <string name="kkal116">226 kcal</string>
+    <string name="kkal117">444 kcal</string>
+    <string name="kkal118">312 kcal</string>
+    <string name="kkal119">438 kcal</string>
+    <string name="min111">15 mines</string>
+    <string name="min112">20 mines</string>
+    <string name="min113">10 mines</string>
+    <string name="min114">10 mines</string>
+    <string name="min115">5 mines</string>
+    <string name="min116">7 mines</string>
+    <string name="min117">40 mines</string>
+    <string name="min118">27 mines</string>
+    <string name="min119">15 mines</string>
+
+    <string name="ww">Melon salad with strawberries and pears</string>
+    <string name="ee">Orange smoothie</string>
+    <string name="rr">Kefir smoothie with blueberries and banana</string>
+    <string name="tt">Strawberry banana smoothie</string>
+    <string name="yy">Chocolate banana smoothie</string>
+    <string name="uu">Peanut butter balls</string>
+    <string name="ii">Homemade apple sauce</string>
+    <string name="oo">Cinnamon cupcake in a cup</string>
+    <string name="pp">Tuna mini pizza</string>
+    <string name="kkal22">158 kcal</string>
+    <string name="kkal23">121 kcal</string>
+    <string name="kkal24">189 kcal</string>
+    <string name="kkal25">150 kcal</string>
+    <string name="kkal26">305 kcal</string>
+    <string name="kkal27">57 kcal</string>
+    <string name="kkal28">163 kcal</string>
+    <string name="kkal29">412 kcal</string>
+    <string name="kkal30">357 kcal</string>
+    <string name="minq">10 mines</string>
+    <string name="minw">10 mines</string>
+    <string name="mine">5 mines</string>
+    <string name="minr">5 mines</string>
+    <string name="mint">3 mines</string>
+    <string name="mini">10 mines</string>
+    <string name="minp">25 mines</string>
+    <string name="mina">7 mines</string>
+    <string name="mins">35 mines</string>
+
+    <string name="aa">Zucchini pancakes</string>
+    <string name="ss">Pasta with mushrooms and garlic</string>
+    <string name="dd">Potatoes with tomatoes</string>
+    <string name="ff">Baked ratatouille</string>
+    <string name="gg">Bruschetta with avocado</string>
+    <string name="hh">shakshuka</string>
+    <string name="jj">Nicoise salad</string>
+    <string name="kk">Baked chicken with potatoes</string>
+    <string name="ll">Ricotta cheese pancakes</string>
+    <string name="kkalz">529 kcal</string>
+    <string name="kkalx">393 kcal</string>
+    <string name="kkalc">389 kcal</string>
+    <string name="kkalv">153 kcal</string>
+    <string name="kkalb">427 kcal</string>
+    <string name="kkalm">531 kcal</string>
+    <string name="kkala">560 kcal</string>
+    <string name="kkals">388 kcal</string>
+    <string name="kkalf">476 kcal</string>
+    <string name="minz">15 mines</string>
+    <string name="minx">25 mines</string>
+    <string name="minc">35 mines</string>
+    <string name="minv">55 mines</string>
+    <string name="minb">15 mines</string>
+    <string name="minn">30 mines</string>
+    <string name="minm">14 mines</string>
+    <string name="minl">45 mines</string>
+    <string name="mink">15 mines</string>
+    <string name="opred">Define</string>
+    <string name="cm">Enter the wrist circumference (cm)</string>
+    <string name="you">Your body type:</string>
+    <string name="dr">Endomorph</string>
+    <string name="vibr">Select </string>
+    <string name="dfgh">Ectomorph</string>
+    <string name="mezo">Mesomorph</string>
+    <string name="dfg">It\'s hard to gain muscle mass</string>
+    <string name="ddb">Fast metabolism</string>
+    <string name="kl">Natural thinness and angularity</string>
+    <string name="xcv">Increased energy level</string>
+    <string name="sr">Tendency to overweight</string>
+    <string name="mal">Slow metabolism</string>
+    <string name="tal">Wide at the waist</string>
+    <string name="taggi">It\'s hard to burn fat deposits</string>
+    <string name="bim">Easily gain muscle mass</string>
+    <string name="speed">Fast metabolism</string>
+    <string name="vbn">Easily lose weight</string>
+    <string name="gym">Natural muscularity</string>
+    <string name="weight11">Your \perfect\pves</string>
+    <string name="wather11">Daily\norm\waters</string>
+    <string name="energy">Daily energy demand</string>
+    <string name="pulse">The maximum value of the pulse at loads</string>
+    <string name="gir111">Determining the percentage of\fat in\organism</string>
+    <string name="spin">(back,biceps)</string>
+    <string name="nogi">(shoulders,legs,abs)</string>
+    <string name="treni">Training</string>
+    <string name="nut">Power supply</string>
+    <string name="sec111">stopwatch</string>
+    <string name="note11">Notes</string>
+    <string name="articles">Articles</string>
+    <string name="live">Health calculators</string>
+    <string name="m1">Male</string>
+    <string name="vibor11">Select </string>
+    <string name="g1">Female</string>
+    <string name="spina11">(back,shoulders)</string>
+    <string name="rk">(chest,arms)</string>
+    <string name="nogi11">(legs)</string>
+    <string name="save1">Enter the text of the note, and then click on the \'Back\' arrow to save</string>
+    <string name="note111">Notes</string>
+    <string name="za">Breakfast</string>
+    <string name="pr">Snack</string>
+    <string name="ob">Lunch</string>
+    <string name="per">Snack</string>
+    <string name="ig">Dinner</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="cbr">RESET</string>
+    <string name="rost">Height (cm)</string>
+    <string name="rac">Calculate</string>
+    <string name="weight111">Weight (kg)</string>
+    <string name="obxv">Belly girth (cm)</string>
+    <string name="rost11">Height (m)</string>
+    <string name="obx">Belly girth (cm)</string>
+    <string name="wei">Weight (kg)</string>
+    <string name="timefiz">Physical activity time (h)</string>
+    <string name="eg">Age (years)</string>
+    <string name="ed">Age (years)</string>
+    <string name="hi">Hi! My name is Kronos and I am your navigation assistant for the app.
+        I\'ll tell you about the main features of the application and show them.</string>
+    <string name="prodol">CONTINUE</string>
+    <string name="st">ARTICLES</string>
+    <string name="tip">BODY TYPE</string>
+    <string name="cal">CALCULATORS</string>
+    <string name="ect">ectomorph</string>
+    <string name="day111">DAY 1 (CHEST,TRICEPS,ABS)</string>
+    <string name="day2">BACK 2 (BACK,BICEPS)</string>
+    <string name="day3">DAY 3 (SHOULDERS,LEGS,ABS)</string>
+    <string name="end">endomorph</string>
+    <string name="mezo11">mesomorph</string>
+    <string name="day222">DAY 2 (CHEST,DAY)</string>
+    <string name="day3333">DAY 3 (LEGS)</string>
+    <string name="qw">DAY 1 (BACK, SHOULDERS)</string>
+    <string name="nutry">NUTRITION</string>
+    <string name="timerr">TIMER</string>
+    <string name="add">Add a note</string>
+    <string name="asdaf">Exercises</string>
+
+    <!--Упражнения для девушек-->
+    <array name="usernameDayqq">
+        <item>Hyperextension</item>
+        <item>Barbell squats</item>
+        <item>The pull of the block to the chest</item>
+        <item>Lunges with dumbbells</item>
+        <item>Dumbbell pull to the belt in a tilt</item>
+        <item>Deadlift with barbell</item>
+        <item>Push-ups on the bench</item>
+    </array>
+    <array name="userDescDaywqe">
+        <item>(3 sets of 15-20 repetitions)</item>
+        <item>(2 sets of 10 repetitions)</item>
+        <item>(3 sets of 9 repetitions)</item>
+        <item>(2 sets of 8 repetitions)</item>
+        <item>(3 sets of 8 repetitions)</item>
+        <item>(3 sets of 10 repetitions)</item>
+        <item>(3 sets of 12 repetitions)</item>
+    </array>
+    <array name="userDescrip12wqe">
+        <item>Insert your legs into the hyperextension simulator, remove your hands behind your
+            head. Keeping your back straight, lower the body and then lift it up.
+            At the top point, look at the wall in front of you. Avoid jerks and sudden movements,
+            perform the exercise smoothly and under control.
+        </item>
+        <item>Put your feet a little wider than the straightened shoulders, bring the shoulder
+            blades together, turn the socks of the feet a little to the sides. Pull the pelvis back,
+            bend slightly in the lower back and with an inspiration go into a squat. Keep your back
+            straight, look forward.
+            Sit down to the parallel of the hips with the floor. If the heels do not come off it,
+            the knees do not wrap inwards, and the back remains straight, try to sit down lower. If
+            at the same time the back is rounded, return to the previous position, that is, again
+            make the hips parallel to the floor.
+            Get out of the squat on the exhale.
+        </item>
+        <item>Sit on the bench, press your feet to the floor. Grasp the handle with a straight
+            (emphasis on the back) or reverse (emphasis on the biceps) grip. You can change them
+            every week. Bring your shoulder blades together, lower your shoulders, straighten your
+            back.
+            As you exhale, pull the handle up to touch the chest. The body does not bend back, the
+            shoulders are lowered, the shoulder blades are brought together.
+        </item>
+        <item>Hold the dumbbells at arm\'s length. Lunge forward, touch the floor with the knee of
+            the leg standing behind. Make sure that the front knee does not go beyond the sock.
+
+            Stand up and lunge with the other leg. You can do these exercises in motion or, if the
+            gym is crowded, on the spot.
+        </item>
+        <item>Put your left arm and knee on a support, for example, on a bench or a box. Straighten
+            your back, lower your shoulders and arm with a dumbbell, bring your shoulder blades
+            together.
+
+            Pull the dumbbell up to your waist and lower it again. It is very important to pull it
+            to the belt, not to the chest, not to raise your shoulders and not to spread your
+            shoulder blades. Otherwise, you will shift the focus from your hands to your back
+            muscles.
+        </item>
+        <item>Stand close to the barbell so that the neck is above the lacing of the sneakers. Sit
+            down, pulling the pelvis back. Grasp the barbell with a straight grip slightly wider
+            than the shoulders. Keep your back straight throughout the exercise.
+            Lift the barbell, fully straighten in the hip joint, then return to the starting
+            position.
+        </item>
+        <item>Find a support: a box, a bench, a stack of steps. Turn your back to her, put your
+            hands on her, straighten your knees. Do a reverse push-up to parallel the shoulders with
+            the floor, but not below. Return to the starting position.
+        </item>
+    </array>
+
+    <!--Список упражнений для Эндоморфа - День 1-->
+    <array name="username">
+        <item>Barbell squats</item>
+        <item>Leg press in the simulator</item>
+        <item>Leg extension while sitting</item>
+        <item>Deadlift</item>
+    </array>
+    <array name="userDesc">
+        <item>(4 sets of 8 repetitions)</item>
+        <item>(4 sets of 8 repetitions)</item>
+        <item>(4 sets of 8-12 repetitions)</item>
+        <item>(4 sets of 8 repetitions)</item>
+    </array>
+    <array name="userDe1">
+        <item>1. Go to the barbell rack. Take it in such a way that the neck is on the upper part of
+            the sternum and the front parts of the deltas
+            \n2. At the same time, you can cross your arms or put them on the neck with a grip from
+            above
+            \n3. Take a couple of steps away from the counter, put your feet shoulder-width apart
+            \n4. Take a breath and start going down. Continue the movement until the hips are
+            parallel to the floor
+            \n5. Having fixed for a second at the bottom point, return to the starting position.
+            Exhale and repeat the exercise the required number of times
+        </item>
+        <item>1. Taking a comfortable fixed position in the simulator, put your feet on the platform
+            \n2. After that, remove the weight clamps with the levers (usually they are located on
+            the sides of the seat)
+            \n3. With the next movement, lower the weight of the platform by bending your legs at
+            the knees
+            \n4. After that, from the lowest point of the amplitude, exhaling, push the platform up
+            with your feet (do not fully straighten your knees)
+        </item>
+        <item>1. The back should be pressed against the seat.
+            \n2. It is impossible to shift and rise from the place during the exercise.
+            \n3. For secure fixation and performing concentrated extension, grasp the handles or
+            seat of the simulator.
+            \n4. Bending your knees, place your ankles under the roller.
+            \n5. Straighten your legs with an exhalation, then fix the position for a second.
+            \n6. As you inhale, slowly lower your legs to the starting position.
+        </item>
+        <item>1. Feet should stand shoulder-width apart
+            \n2. Sit down and grab the barbell using a straight grip (when the palms are pointing in
+            your direction)
+            \n3. The grip should be such that the hands are slightly apart from each other, the
+            width of the shoulders
+            \n4. Take a barbell and straighten up with it
+            \n5. Then, slowly lower the body body forward so that the barbell is below knee level
+            \n6. Then get up and return to the starting position
+        </item>
+    </array>
+
+    <!--Список упражнений для Эндоморфа - День 2-->
+    <array name="usernameDay2">
+        <item>Tilt barbell press. bench</item>
+        <item>Dumbbell press on the slope. bench</item>
+        <item>Dumbbell wiring</item>
+        <item>Push-ups on the uneven bars</item>
+        <item>French bench press</item>
+    </array>
+    <array name="userDescDay2">
+        <item>(4 sets of 8-10 repetitions)</item>
+        <item>(4 sets of 8-10 repetitions)</item>
+        <item>(4 sets of 8-12 repetitions)</item>
+        <item>(4 sets of 8-10 repetitions)</item>
+        <item>(4 sets of 8-10 repetitions)</item>
+    </array>
+    <array name="userDe2">
+        <item>1. Take a position on an inclined bench, adjusting the seat so that the neck is at eye
+            level.
+            \n2. When performing a bench press, the neck should move at the level of the upper line
+            of the pectoral muscles (or above the upper part of the pectoral muscles). The grip in
+            this exercise is identical to the classic grip when pressing on a horizontal bench.
+            A wide grip, in which the hands are as close as possible to the weighting discs, can
+            also be used, but do not forget that such an arrangement of hands on the neck is more
+            traumatic.
+            \n3. The correct grip implies the vertical position of the elbows at the lowest point of
+            the amplitude. The back should be pressed against the back of the bench.
+            \n4. The inhale is done at the moment when the barbell is above the head at the highest
+            point of the amplitude, and is accompanied by lowering the barbell to the chest, and the
+            exhale is done at the time of the press.
+            \n5. Hands at the peak of the amplitude should not be straightened to the end, since
+            when the arms are extended, the triceps are fully connected to the work. In the lower
+            part of the amplitude, the neck should not touch the chest.
+            \n6. An important point is the stretching of the chest with air. Due to this, the chest
+            muscles stretch when inhaling, which gives a better muscle contraction.
+        </item>
+        <item>1. The bench is installed at an angle of 45 degrees
+            \n2. Inhale and exhale, and on exhaling, without a jerk, raise your arm at the elbow
+            \n3. It is not necessary to bend the arm until the dumbbell touches the arm – just as it
+            is not necessary to achieve a straight arm at the end of the movement when extending
+            \n4. Elbows remain motionless during execution – do not bring them back or to the sides
+        </item>
+        <item>1. To perform the exercise, you need to sit on a bench and put dumbbells on your
+            knees, then take a lying position. With your knees, you need to push the dumbbells to
+            your chest.
+            \n2. The arms should be stretched up in front of the chest, and the dumbbells should
+            touch each other. It is important to keep a small angle at the elbows.
+            \n3. The movement begins with the dilution of dumbbells to the sides on inspiration. It
+            is very important that the elbows look down. The end point of the amplitude is
+            approximately parallel to the floor.
+            \n4. At the lower point of the amplitude, a short pause should be made.
+            \n5. After a pause at the bottom point, return the dumbbells to their original position
+            on exhalation.
+            \n6. The movement is performed only by means of contraction of the pectoral muscles.
+            Perform the exercise in a concentrated manner.
+        </item>
+        <item>1. We take the starting position: the body is between the bars, the palms embrace them
+            and look at each other, the back is straight, the gaze is directed forward
+            \n2. On the inhale, we begin to move, bending our arms at the elbows
+            \n3. The lowest point of movement is when the shoulders are almost at the same level
+            with the bars
+            \n4. At the bottom point, you should fix yourself for a couple of seconds, then, on
+            exhalation, with the tension of the muscles of the press, make an ascent by unbending
+            your arms
+        </item>
+        <item>1. Place the neck on special racks for French bench press, or hold the neck on your
+            chest, place your palms on the neck along the width of the shoulder joints, and slowly
+            lie down on your back. At the bottom point, lift the barbell up, fully straightening
+            your elbows.
+            \n2. Press the lower back to the bench, if it is impossible, put your feet on the bench,
+            thus removing the deflection of the lumbar region.
+            \n3. Hold the barbell over your shoulders, do not pull your elbows to the sides.
+            \n4. As you inhale, lower the barbell to your forehead, but without touching it.
+            Movement occurs only in the elbow joint.
+            \n5. With an exhalation, straighten your elbows to the end, without taking them away
+            when lifting through the sides.
+        </item>
+    </array>
+
+    <!--Список упражнений для Эндоморфа - День 3-->
+    <array name="usernameDay3">
+        <item>Pull-ups with a wide grip</item>
+        <item>Rod pull in tilt</item>
+        <item>Thrust of the upper block</item>
+        <item>Army bench press</item>
+        <item>Lifting the barbell on the biceps while standing</item>
+        <item>Hammer bends</item>
+        <item>Lifting dumbbells while sitting</item>
+    </array>
+    <array name="userDescDay3">
+        <item>(4 approaches to failure)</item>
+        <item>(4 sets of 8-10 repetitions)</item>
+        <item>(4 sets of 8-10 repetitions)</item>
+        <item>(4 sets of 8-10 repetitions)</item>
+        <item>(4 sets of 8-10 repetitions)</item>
+        <item>(4 sets of 8-10 repetitions)</item>
+        <item>(4 sets of 8-10 repetitions)</item>
+    </array>
+    <array name="userDe3">
+        <item>1. Approach the projectile of a suitable height
+            \n2. Place the palms at the required width from each other
+            \n3. Grab hold of the projectile, slightly bending your legs under you, to level the use
+            of leg muscles when pulling up
+            \n4. Slowly pull up, keeping the deflection in the back
+            \n5. Then stay at the top point for 1-2 seconds
+            \n6. After that, start the descent from the projectile as slowly as possible
+            \n7. The lower point should not be in full extension of the elbows
+            \n8. Climb to the crossbar again
+        </item>
+        <item>1. The athlete must stand in front of the barbell, put his feet shoulder-width apart.
+            \n2. The knees should be slightly bent.
+            \n3. It is necessary to take the barbell with your palms shoulder-width apart, without
+            bending your arms at the elbows, then straighten up. The starting position is as
+            follows: the loin is slightly bent, the torso is tilted forward. The angle of
+            inclination is approximately 30 degrees.
+            \n4. The legs are bent at the knees. The muscles of the lower back should be in tension.
+            \n5. The starting point of the amplitude of the barbell is at the athlete\'s knees, the
+            end point of the amplitude is at the belt.
+            \n6. In the initial movement, an inhalation is made, and when the barbell is pulled to
+            the belt, an exhalation is made, after which, on the reverse return movement to the
+            starting position, an inhalation is again made.
+        </item>
+        <item>1. Grasp the fingerboard crossbar with both hands. Turn the inside of the hands
+            (palms) forward
+            \n2. Make a deflection in the lower back, tilt the head 15-20 cm back
+            \n3. By the strength of the back muscles (wings) pull the weight up or down the chest
+        </item>
+        <item>1. Stand in front of the barbell, put your feet on the width of the pelvis, grab the
+            barbell with a grip slightly wider than the shoulders.
+            \n2. Rise with a straight back, bend your elbows and lift the barbell to the upper chest
+            (on the collarbone).
+            \n3. Lower your elbows to the floor, do not lean your body back, hold your spine with
+            the strength of the stabilizer muscles.
+            \n4. Exhale and lift the barbell over your head, fully extending your elbows.
+            \n5. As you inhale, gently lower the neck to the clavicle part of the chest without
+            dropping the barbell.
+        </item>
+        <item>1. Take a position in front of the mirror, taking the barbell in your hands.
+            \n2. The legs should stand shoulder-width apart.
+            \n3. The arms with the neck are lowered to the bottom.
+            \n4. The grip can be narrow, straight or wide. The location of the brushes on the neck
+            creates an emphasis on a part of the target muscles: the wider the grip, the more the
+            long head of the biceps works, and the narrower it is, the more the short head is worked
+            out.
+            \n5. Please note that the back should be straight throughout the exercise.
+            \n6. The upward movement, lifting the barbell, is performed on exhalation.
+            \n7. The peak of the amplitude will come at the moment when the arms are completely bent
+            at the joints.
+            \n8. With exhalation, the barbell descends to the hips.
+            \n9. In any case, do not tilt the body to the sides.
+        </item>
+        <item>1.The athlete must place his feet at shoulder level. The back should be strictly in an
+            upright position. Hands with dumbbells held by a neutral grip are placed on the sides
+            along the hips. Elbow joints are straight.
+            \n2. The movement begins on exhalation. The athlete bends his arms at the elbow joint,
+            straining the shoulder muscles (biceps). Please note that the elbow joints should not
+            move from their place throughout the exercise.
+            \n3. The reverse movement should be performed on the inhale slightly slower than the
+            upward movement.
+        </item>
+        <item>1. Starting position: adjust the angle of inclination of the bench in the position
+            from 80 to 90 degrees
+            \n2. On exhalation: strain the abdominal muscles and lower back, squeeze the dumbbells
+            up in an arc
+            \n3. On the inhale: after lingering at the top point for a second, we return the
+            dumbbells to the starting position with a slow and controlled movement
+        </item>
+    </array>
+
+    <!--Список упражнений для Эктоморфа - День 1-->
+    <array name="usernameDay1">
+        <item>Bench press</item>
+        <item>Bench press on the slope. bench</item>
+        <item>Breeding dumbbells lying down</item>
+        <item>Push-ups on the uneven bars</item>
+        <item>Bench press with a narrow grip</item>
+        <item>French bench press</item>
+        <item>Triceps on the block</item>
+        <item>Lifting the body on the bench</item>
+    </array>
+    <array name="userDescDay1">
+        <item>(3 sets of 6-8 repetitions)</item>
+        <item>(3 sets of 6-8 repetitions)</item>
+        <item>(3 sets of 8-10 repetitions)</item>
+        <item>(3 sets of 8-10 repetitions)</item>
+        <item>(3 sets of 6-8 repetitions)</item>
+        <item>(3 sets of 8-10 repetitions)</item>
+        <item>(3 sets of 10-12 repetitions)</item>
+        <item>(4-5 approaches to failure)</item>
+    </array>
+    <array name="userDescrip1">
+        <item>1. Gently, as you inhale, lower the barbell until it touches the lower part of the
+            chest.\n2. As you exhale, squeeze the barbell up.
+            During the exercise, make sure that the barbell moves only in the vertical plane.
+            The elbows are under the neck at the same time. Throughout the movement, the shoulder
+            blades remain contracted, and the lower back is bent.
+            On the inhale - slowly down, on the exhale - powerfully up.
+        </item>
+        <item>1. Take a position on an inclined bench, adjusting the seat so that the neck is at eye
+            level.\n2. When performing a bench press, the neck should move at the level of the upper
+            line of the pectoral muscles (or above the upper part of the pectoral muscles). The grip
+            in this exercise is identical to the classic grip when pressing on a horizontal bench.
+            The correct grip implies the vertical position of the elbows at the lowest point of the
+            amplitude.\n3.The back should be pressed against the back of the bench.
+        </item>
+        <item>1. Sit on a bench and firmly rest your feet on the floor. With the effort of the body,
+            throw the dumbbells on the hips
+            \n2. Slowly lie down on the bench and at the same time straighten your arms with
+            dumbbells up as you exhale
+            \n3. Slightly bend your arms at the elbows, they should not be fully straightened
+            \n4. Start slowly, feeling the careful stretching of the pectoral muscles, lower your
+            arms to the level when the forearms become parallel to the floor
+            \n5. Exhaling, with a sharp contraction of the pectoral muscles, return the dumbbells to
+            the starting position
+            \n6. Fix the peak contraction for 1 second, then repeat the movement until the end of
+            the exercise
+        </item>
+        <item>1. Take the starting position with straight arms at the top point. The body should be
+            positioned strictly vertically, and the elbows should be turned back
+            \n2. As you inhale, lower yourself down as much as possible until your shoulders are
+            level with your elbows. Hands should be close to the body, do not go back or to the
+            sides. Take a break
+            \n3. As you exhale, press down with a powerful contraction of the arm muscles until the
+            elbow joints are fully straightened. Pause
+        </item>
+        <item>1. The neck is at eye level, the buttocks and shoulder blades touch the bench, the
+            deflection is performed if it is convenient, and so the body is better stabilized on the
+            bench. The \"bridge\" is not an end in itself in this bench press, as in other bench
+            press movements;
+            \n2. The feet can stand on their toes, or press against the floor, this moment depends
+            on the height of the bench and the length of the athlete\'s legs. The main thing is a
+            stable position of the legs so that they do not move along the \"perimeter\";
+            \n3. The neck is taken with a closed grip, usually slightly narrower than the shoulders,
+            but this is individual. The triceps also works with an average grip, if you do not
+            \"twist\" your elbows to the sides and do not bend your wrists
+        </item>
+        <item>1.Lie down on the bench with the angle you have chosen. Take the barbell in your hands
+            (by yourself, or let your partner give it), grip shoulder width apart. The shoulder
+            blades are pressed against the surface on which you are lying, the legs are on the
+            floor. The head is pressed down, lying closer to the edge of the bench.
+            \n2. Lift the barbell up. This is a very important point. If you perform the option to
+            the nose, then keep your hands perpendicular to the floor.
+            \n3. We inhale and bend our arms at the elbow joint, thereby lowering the barbell to the
+            point we have chosen, nose or behind the head.
+            \n4. After fully lowering the barbell, immediately on exhalation, we unbend our arms and
+            return them to their original position. Don\'t make any sudden movements.
+        </item>
+        <item>1. Stand facing the Crossover, take the straight handle of the upper block with a grip
+            from above along the edges.
+            \n2. Place your feet on the width of the pelvis and press your elbows to the body. The
+            forearms are relaxed, the handle is at shoulder level.
+            \n3. Exhale: perform the extension of the arms without lifting the elbows, lowering the
+            handle completely on the hips.
+            \n4. Inhale: bend your elbows smoothly and without a jerk.
+        </item>
+        <item>1. Place your legs under special rollers to fix the knee and ankle joints. The hips
+            and buttocks should be in full contact with the inclined bench.
+            \n2. Put your hands behind your head or hold them on your chest – this will simplify the
+            load.
+            \n3. Round your back at the top of the movement and do not unbend your spine until the
+            end of the approach.
+            \n4. As you inhale, pull the trunk back, keeping tension in the abdominal muscles, and
+            lower it to such an extent that the angle between the trunk and the hips is about 90
+            degrees. Do not lower your back on the bench, remember about the tension in the
+            abdominal muscles and the rounding of the spine.
+            \n5. With an exhalation, twist the press, bringing the stomach to the hips, but do not
+            straighten your back.
+        </item>
+    </array>
+
+    <!--Список упражнений для Эктоморфа - День 2-->
+    <array name="usernameDay22">
+        <item>The pull of the upper block to the chest</item>
+        <item>Rod pull in tilt</item>
+        <item>Dumbbell pull in tilt</item>
+        <item>Deadlift</item>
+        <item>Biceps barbell lifts</item>
+        <item>Lifting dumbbells with supine.</item>
+        <item>Lifting the barbell with a grip from above</item>
+    </array>
+    <array name="userDescDay22">
+        <item>(3 sets of 8 repetitions)</item>
+        <item>(3 sets of 6 repetitions)</item>
+        <item>(3 sets of 6-8 repetitions)</item>
+        <item>(3 sets of 6 repetitions)</item>
+        <item>(4 sets of 8-10 repetitions)</item>
+        <item>(3 sets of 8-10 repetitions)</item>
+        <item>(3 sets of 8-10 repetitions)</item>
+    </array>
+
+    <array name="userDesc2">
+        <item>1. Sit on the bench of the simulator as close as possible, until the waist stops in
+            the lower limiter
+            \n2. We take the handle with a reverse grip (that is, the palms are turned in the
+            direction of the trunk and lie down from the bottom of the handle) at shoulder level, or
+            a little narrower
+            \n3. On exhalation, pull the block until it touches the upper part of the pectoral
+            muscles
+            \n4. Linger briefly in this position, for maximum reduction of the widest
+            \n5. While inhaling, while maintaining tension in the working muscles, return to the
+            starting position
+        </item>
+        <item>1. Stand in the starting position with your feet shoulder-width apart and knees bent
+            \n2. Lift the barbell from the floor with a straight grip, arms slightly wider than the
+            shoulders
+            \n3. Move your elbows to the sides, tilt the body to an angle of 30 degrees with the
+            surface
+            \n4. Soften the knees
+            \n5. On exhalation, pull the barbell until it touches the front surface of the chest
+            \n6. Slowly lower to the initial level
+        </item>
+        <item>1. The body is tilted at an angle of 90, the arm is lowered from the dumbbells, the
+            neck is parallel to the body
+            \n2. The supporting leg should be slightly pulled back to maintain balance
+            \n3. The pelvis and shoulder girdle should be located parallel to the floor
+            \n4. Lifting a dumbbell is necessary by the effort of the back muscles
+            \n5. Twisting in the spine should not be allowed
+            \n6. The same weight is usually used on both halves of the back
+        </item>
+        <item>1. Put the barbell on the floor, having previously hung the pancakes of the desired
+            weight.
+            \n2. Stand in front of the barbell in the center, place your feet along the width of the
+            pelvis, spread your socks apart quite a bit.
+            \n3. Sit down, pulling the pelvis back, grab the barbell bar with your hands
+            shoulder-width apart so that your knees are between your hands.
+            \n4. Do not get up from the same position. To begin with, straighten the spine line,
+            slightly bending the lower back inward, exposing the chest forward.
+            \n5. The shoulder line should extend beyond the bar forward.
+            \n6. Bring your shoulder blades together, keep your head neutral, do not rotate your
+            head and do not throw it back.
+            \n7. Before starting the movement, take a breath. Mainly due to the strength of the
+            pelvis, begin to unbend the trunk and climb up until the spine and knees are fully
+            straightened.
+            \n8. Exhale at the top.
+            \n9. Slowly return the barbell to the floor, stretching the neck along the shin, do not
+            pull the pelvis back too far so that the load does not shift from the back.
+        </item>
+        <item>1. Standing, legs shoulder-width apart, knees slightly bent (remove the load from the
+            knees).
+            \n2. Grasp the neck from below, slightly wider than the shoulders.
+            \n3. Exhale: bend your arms, lifting the barbell due to biceps efforts.
+            \n4. Inhale: gently lower the barbell down.
+        </item>
+        <item>1. Standing, legs shoulder-width apart, arms with dumbbells hanging freely at the
+            sides.
+            \n2. Exhale: lift the dumbbells, bending your elbows, keeping them pressed against the
+            trunk. When the angle at the elbows reaches 90 degrees, begin to unfold the brushes with
+            the inner side to the shoulders. Make an effort at the expense of the biceps, do not
+            rock the body and do not lift the dumbbells with a jerk.
+            \n3. Inhale: perform a slower lowering of the arms in reverse order, turning the hands
+            to the starting position.
+        </item>
+        <item>1. Place your hands on the neck (middle position).
+            \n2. The back is straight, the shoulders are straightened, the legs are shoulder width
+            apart.
+            \n3. From the position of straight, lowered arms, bending is performed.
+            \n4. The upward movement occurs on exhalation. The hands are pressed against the body
+            and motionless. Only the forearms move.
+            \n5. Movements are performed in a concentrated manner, without jerks.
+            \n6. At the upper point of the amplitude (it is achievable with full flexion of the arms
+            in the elbow joints), you need to pause for a second, after which you return the barbell
+            to its original position as slowly as possible. Please note that it is not necessary to
+            fully straighten the arms in the elbow joints, as this is traumatic.
+            \n7. At the lower point of the movement, a breath is inhaled and a repeat is performed.
+        </item>
+    </array>
+
+    <!--Список упражнений для Эктоморфа - День 3-->
+    <array name="usernameDay33">
+        <item>Standing chest barbell press</item>
+        <item>Dumbbell bench press</item>
+        <item>Swing dumbbells to the sides</item>
+        <item>Scars with a barbell</item>
+        <item>Barbell squats</item>
+        <item>Platform leg press</item>
+        <item>Leg lifts lying down</item>
+    </array>
+    <array name="userDescDay33">
+        <item>(3 sets of 8 repetitions)</item>
+        <item>(3 sets of 8-10 repetitions)</item>
+        <item>(3 sets of 8-10 repetitions)</item>
+        <item>(4 sets of 12-15 repetitions)</item>
+        <item>(3 sets of 6-8 repetitions)</item>
+        <item>(3 sets of 8 repetitions)</item>
+        <item>(4 approaches to failure)</item>
+    </array>
+    <array name="userDesc3">
+        <item>1. Stand in front of the barbell, put your feet on the width of the pelvis, grab the
+            barbell with a grip slightly wider than the shoulders.
+            \n2. Rise with a straight back, bend your elbows and lift the barbell to the upper chest
+            (on the collarbone).
+            \n3. Lower your elbows to the floor, do not lean your body back, hold your spine with
+            the strength of the stabilizer muscles.
+            \n4. Exhale and lift the barbell over your head, fully extending your elbows.
+            \n5. As you inhale, gently lower the neck to the clavicle part of the chest without
+            dropping the barbell.
+        </item>
+        <item>1. Starting position: adjust the angle of inclination of the bench in the position
+            from 80 to 90 degrees
+            \n2. On exhalation: strain the abdominal muscles and lower back, squeeze the dumbbells
+            up in an arc
+            \n3. On the inhale: after lingering at the top point for a second, we return the
+            dumbbells to the starting position with a slow and controlled movement
+        </item>
+        <item>1. bend your legs slightly, while the feet are parallel to each other, make a forward
+            tilt so that the lower back bends slightly, and look in front of you
+            \n2. Lower your shoulders, and hold the dumbbells in slightly bent arms, pancakes to
+            each other, avoiding their contact
+            \n3. With the body fixed, while inhaling, we spread our arms to the sides and linger for
+            a second
+            \n4. As you exhale, gently and calmly lower your hands and continue moving without
+            stopping
+            \n5. The elbows are turned up during the exercise, they look at the ceiling, we do not
+            reduce the shoulder blades, otherwise the trapezius muscles will immediately turn into
+            work
+            \n6. The body is motionless during the exercise and does not sway
+        </item>
+        <item>1. When performing the technique with a barbell in front, place the neck on the racks
+            at a level just below the pelvis.
+            \n2. Grasp the neck with a grip from above, slightly wider than the shoulders. Remove
+            the barbell, move a little away from the racks and place your feet shoulder-width apart.
+            \n3. With an exhalation, lift your shoulders, doing \'shrugs \', at the peak feel the
+            maximum reduction of the trapezoid. Linger for a second at the peak of contraction.
+            Perform the full range of motion.
+            \n4. As you inhale, lower your shoulders, slowly stretching the trapezoids.
+        </item>
+        <item>1. Go to the barbell rack. Take it in such a way that the neck is on the upper part of
+            the sternum and the front parts of the deltas
+            \n2. At the same time, you can cross your arms or put them on the neck with a grip from
+            above
+            \n3. Take a couple of steps away from the counter, put your feet shoulder-width apart
+            \n4. Take a breath and start going down. Continue the movement until the hips are
+            parallel to the floor
+            \n5. Having fixed for a second at the bottom point, return to the starting position.
+            Exhale and repeat the exercise the required number of times
+        </item>
+        <item>1. Taking a comfortable fixed position in the simulator, put your feet on the
+            platform. This will be the starting position.
+            \n2. After that, remove the weight clamps using the levers (usually they are located on
+            the sides of the seat).
+            \n3. With the next movement, lower the weight of the platform by bending the legs at the
+            knees. When performing this movement, you should inhale. At the lower point of the
+            movement, the legs should form a right angle. It is very important not to take your feet
+            off the platform, and your lower back off the back of the simulator.
+            \n4. After that, from the lowest point of the amplitude, exhaling, push the platform up
+            with your feet (do not fully straighten your knees).
+        </item>
+        <item>1. On exhalation, lift straight legs up to the angle in which there is a distinct
+            tension of the muscles of the press
+            \n2. Stay in the top position for 3-5 seconds
+            \n3. Slowly lower your legs to the floor, accompanying the movement with an inspiration.
+            Stop when the distance from the floor to the heels of your feet is 15-20 cm
+        </item>
+    </array>
+
+    <!--Список упражнений для Мезоморфа - День 1-->
+    <array name="usernameDay11">
+        <item>Pull-ups on the crossbar</item>
+        <item>Rod pull in tilt</item>
+        <item>Thrust of the upper block</item>
+        <item>Army bench press</item>
+        <item>The pull of the barbell to the chin</item>
+        <item>Dumbbell lifts</item>
+    </array>
+    <array name="userDescDay11">
+        <item>(4 approaches to failure)</item>
+        <item>(4 sets of 8-12 repetitions)</item>
+        <item>(4 sets of 8-12 repetitions)</item>
+        <item>(4 sets of 8-10 repetitions)</item>
+        <item>(4 sets of 8-10 repetitions)</item>
+        <item>(4 sets of 8-12 repetitions)</item>
+    </array>
+    <array name="userD1">
+        <item>1. Grasp the crossbar with your hands, placing them shoulder-width apart. The grip
+            should be palms down
+            \n2. Then hang with straight arms, bending your knees
+            \n3. Start pushing yourself up, bending your arms at the elbows. The chin should cross
+            the upper line
+            \n4. Then go down with straight arms. Take a breath and repeat the exercise
+        </item>
+        <item>1. Stand in the starting position with your feet shoulder-width apart and knees bent
+            \n2. Lift the barbell from the floor with a straight grip, arms slightly wider than the
+            shoulders
+            \n3. Move your elbows to the sides, tilt the body to an angle of 30 degrees with the
+            surface
+            \n4. Soften the knees
+            \n5. On exhalation, pull the barbell until it touches the front surface of the chest
+            \n6. Slowly lower to the initial level
+        </item>
+        <item>1. Sit on the bench of the simulator as close as possible, until the waist stops in
+            the lower limiter
+            \n2. We take the handle with a reverse grip (that is, the palms are turned in the
+            direction of the trunk and lie down from the bottom of the handle) at shoulder level, or
+            a little narrower
+            \n3. On exhalation, pull the block until it touches the upper part of the pectoral
+            muscles
+            \n4. Linger briefly in this position, for maximum reduction of the widest
+            \n5. While inhaling, while maintaining tension in the working muscles, return to the
+            starting position
+        </item>
+        <item>1. Stand in front of the barbell, put your feet on the width of the pelvis, grab the
+            barbell with a grip slightly wider than the shoulders.
+            \n2. Rise with a straight back, bend your elbows and lift the barbell to the upper chest
+            (on the collarbone).
+            \n3. Lower your elbows to the floor, do not lean your body back, hold your spine with
+            the strength of the stabilizer muscles.
+            \n4. Exhale and lift the barbell over your head, fully extending your elbows.
+            \n5. As you inhale, gently lower the neck to the clavicle part of the chest without
+            dropping the barbell.
+        </item>
+        <item>1. Stand in front of the mirror, the barbell in lowered outstretched hands with a
+            closed grip from above. The legs are shoulder-width apart and slightly bent at the
+            knees. Shoulder blades are brought together, the back is straight
+            \n2. Stretch the projectile as much as possible upward on exhalation, elbows pointing
+            upwards
+            \n3. At the top point of the movement, stop for one or two seconds, then slowly return
+            to the original position while inhaling
+        </item>
+        <item>1. Starting position — standing
+            \n2. We take dumbbells and place them in front of us approximately at hip level
+            \n3. Straighten your back, hands with dumbbells should not touch the hips
+            \n4. We lift the arm until it is parallel to the floor (this is approximately the level
+            of your chin)
+            \n5. The distance between the arms when lifting should be equal to the width of your
+            shoulders
+            \n6. When the chin level is reached, it is necessary to stay in this position for 1-2
+            seconds in order to maximize the use of muscles in work
+            \n7. Gently lower our hands on exhalation and return to the starting position
+        </item>
+    </array>
+
+    <!--Список упражнений для Мезоморфа - День 2-->
+    <array name="usernameDay222">
+        <item>Tilt barbell press. bench</item>
+        <item>Dumbbell press on the slope. bench</item>
+        <item>Dumbbell wiring</item>
+        <item>Lifting the barbell on the biceps</item>
+        <item>Exercise “Hammer”</item>
+        <item>Tight grip press</item>
+        <item>French bench press</item>
+    </array>
+    <array name="userDescDay222">
+        <item>(4 sets of 8-12 repetitions)</item>
+        <item>(4 sets of 8-10 repetitions)</item>
+        <item>(2 sets of 8-12 repetitions)</item>
+        <item>(4 sets of 8-12 repetitions)</item>
+        <item>(4 sets of 8-12 repetitions)</item>
+        <item>(4 sets of 8-12 repetitions)</item>
+        <item>(4 sets of 8-12 repetitions)</item>
+    </array>
+    <array name="userD2">
+        <item>1. Take a position on an inclined bench, adjusting the seat so that the neck is at eye
+            level.
+            \n2. When performing a bench press, the neck should move at the level of the upper line
+            of the pectoral muscles (or above the upper part of the pectoral muscles). The grip in
+            this exercise is identical to the classic grip when pressing on a horizontal bench.
+            The correct grip implies the vertical position of the elbows at the lowest point of the
+            amplitude.
+            \n3.The back should be pressed against the back of the bench.
+        </item>
+        <item>1. The bench is installed at an angle of 45 degrees
+            \n2. Inhale and exhale, and on exhaling, without a jerk, raise your arm at the elbow
+            \n3. It is not necessary to bend the arm until the dumbbell touches the arm – just as it
+            is not necessary to achieve a straight arm at the end of the movement when extending
+            \n4. Elbows remain motionless during execution – do not bring them back or to the sides
+        </item>
+        <item>1. To perform the exercise, you need to sit on a bench and put dumbbells on your
+            knees, then take a lying position. With your knees, you need to push the dumbbells to
+            your chest.
+            \n2. The arms should be stretched up in front of the chest, and the dumbbells should
+            touch each other. It is important to keep a small angle at the elbows.
+            \n3. The movement begins with the dilution of dumbbells to the sides on inspiration. It
+            is very important that the elbows look down. The end point of the amplitude is
+            approximately parallel to the floor.
+            \n4. At the lower point of the amplitude, a short pause should be made.
+            \n5. After a pause at the bottom point, return the dumbbells to their original position
+            on exhalation.
+            \n6. The movement is performed only by means of contraction of the pectoral muscles.
+            Perform the exercise in a concentrated manner.
+        </item>
+        <item>1. Standing, legs shoulder-width apart, knees slightly bent (we remove the load from
+            the knees)
+            \n2. Grasp the neck from below, slightly wider than the shoulders
+            \n3. Exhale: bend your arms, lifting the barbell due to biceps efforts
+            \n4. Inhale: gently lower the bar down
+        </item>
+        <item>1. The athlete must place his feet at shoulder level. The back should be strictly in
+            an upright position. Hands with dumbbells held by a neutral grip are placed on the sides
+            along the hips. Elbow joints are straight.
+            \n2. The movement begins on exhalation. The athlete bends his arms at the elbow joint,
+            straining the shoulder muscles (biceps). Please note that the elbow joints should not
+            move from their place throughout the exercise.
+            \n3. The reverse movement should be performed on the inhale slightly slower than the
+            upward movement.
+        </item>
+        <item>1. The neck is at eye level, the buttocks and shoulder blades touch the bench, the
+            deflection is performed if it is convenient, and so the body is better stabilized on the
+            bench. \'Bridge\' is not an end in itself in this bench press, as in other bench press
+            movements;
+            \n2. The feet can stand on their toes, or press against the floor, this moment depends
+            on the height of the bench and the length of the athlete\'s legs. The main thing is a
+            stable position of the legs so that they do not move along the \'perimeter\';
+            \n3. The neck is taken with a closed grip, usually slightly narrower than the shoulders,
+            but this is individual. The triceps also works with an average grip, if you do not
+            \'twist\' your elbows to the sides and do not bend your wrists
+        </item>
+        <item>1.Lie down on the bench with the angle you have chosen. Take the barbell in your hands
+            (by yourself, or let your partner give it), grip shoulder width apart. The shoulder
+            blades are pressed against the surface on which you are lying, the legs are on the
+            floor. The head is pressed down, lying closer to the edge of the bench.
+            \n2. Lift the barbell up. This is a very important point. If you perform the option to
+            the nose, then keep your hands perpendicular to the floor.
+            \n3. We inhale and bend our arms at the elbow joint, thereby lowering the barbell to the
+            point we have chosen, nose or behind the head.
+            \n4. After fully lowering the barbell, immediately on exhalation, we unbend our arms and
+            return them to their original position. Don\'t make any sudden movements.
+        </item>
+    </array>
+
+    <!--Список упражнений для Мезоморфа - День 3-->
+    <array name="usernameDay333">
+        <item>Barbell squats</item>
+        <item>Leg press on the simulator</item>
+        <item>Leg extensions on the simulator</item>
+        <item>Standing toe lifts</item>
+    </array>
+    <array name="userDescDay333">
+        <item>(3 sets of 8-12 repetitions)</item>
+        <item>(3 sets of 8-12 repetitions)</item>
+        <item>(3 sets of 8-12 repetitions)</item>
+        <item>(4 sets of 12-20 repetitions)</item>
+    </array>
+    <array name="userD3">
+        <item>1. Go to the barbell rack. Take it in such a way that the neck is on the upper part of
+            the sternum and the front parts of the deltas
+            \n2. At the same time, you can cross your arms or put them on the neck with a grip from
+            above
+            \n3. Take a couple of steps away from the counter, put your feet shoulder-width apart
+            \n4. Take a breath and start going down. Continue the movement until the hips are
+            parallel to the floor
+            \n5. Having fixed for a second at the bottom point, return to the starting position.
+        </item>
+        <item>1. Taking a comfortable fixed position in the simulator, put your feet on the platform
+            \n2. After that, remove the weight clamps with the levers (usually they are located on
+            the sides of the seat)
+            \n3. With the next movement, lower the weight of the platform by bending your legs at
+            the knees
+            \n4. After that, from the lowest point of the amplitude, exhaling, push the platform up
+            with your feet (do not fully straighten your knees)
+        </item>
+        <item>1. The back should be pressed against the seat
+            \n2. It is impossible to shift and rise from the place during the exercise
+            \n3. For secure fixation and performing concentrated extension, grasp the handles or
+            seat of the simulator
+            \n4. Bending your knees, place your ankles under the roller
+            \n5. Straighten your legs with an exhalation, then fix the position for a second
+            \n6. As you inhale, slowly lower your legs to the starting position
+        </item>
+        <item>1. We approach the simulator, set the desired weight on it and adjust the height
+            position according to our height
+            \n2. We stand on the platform with the toes of our feet, while the knees should be
+            slightly bent
+            \n3. The shoulders are placed under the soft stops of the simulator
+            \n4. We lower our heels below the platform, thus stretching the calves
+            \n5. On exhalation, we lift the heels, unbending the ankle
+            \n6. We return the heels below the platform
+            \n7. Doing the required number of repetitions
+        </item>
+    </array>
+
+</resources>
